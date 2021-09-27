@@ -1,7 +1,7 @@
 GAMEX
 Feito de gamers para gamers afim de auxiliarem a escolher um jogo para curtir!
 
-Versão 1
+Versão 1.0v
 
 Totalmente feito em Laravel PHP (https://laravel.com/)
 
